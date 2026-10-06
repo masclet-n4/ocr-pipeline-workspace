@@ -1,0 +1,7 @@
+ai-interpreter/
+tiny-ocr/
+tiny-ocr-gateway/
+
+test-docs/
+
+.env
